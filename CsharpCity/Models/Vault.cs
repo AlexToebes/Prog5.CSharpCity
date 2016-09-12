@@ -20,6 +20,10 @@ namespace CsharpCity.Models
             {
                 return _isOpen;
             }
+
+            set {
+                _isOpen = value;
+            }
         }
 
         public string ThisPropertyDoesNothing

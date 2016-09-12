@@ -11,7 +11,13 @@ namespace CsharpCity.Models
     {
         //De geheime sleutel van de poort
         private Key _key;
-        
+        public Key key { get {
+                return _key;
+            } set {
+                _key = value;
+            }
+        }
+
         //Was er maar een manier om aan de sleutel te komen.....
 
         public Guard()

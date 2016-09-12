@@ -24,3 +24,16 @@ C:\Users\Linksonder\Documents\1. GitHub\Prog5.CSharpCity\CSharpCity.uitwerking\o
 C:\Users\Linksonder\Documents\1. GitHub\Prog5.CSharpCity\CSharpCity.uitwerking\obj\Debug\CSharpCity.uitwerking.csproj.GenerateResource.Cache
 C:\Users\Linksonder\Documents\1. GitHub\Prog5.CSharpCity\CSharpCity.uitwerking\obj\Debug\CSharpCity.uitwerking.exe
 C:\Users\Linksonder\Documents\1. GitHub\Prog5.CSharpCity\CSharpCity.uitwerking\obj\Debug\CSharpCity.uitwerking.pdb
+C:\Users\amtoebes\Documents\prog5-wk2-ccity-AlexToebes\CSharpCity.uitwerking\bin\Debug\CSharpCity.uitwerking.exe.config
+C:\Users\amtoebes\Documents\prog5-wk2-ccity-AlexToebes\CSharpCity.uitwerking\bin\Debug\CSharpCity.uitwerking.exe
+C:\Users\amtoebes\Documents\prog5-wk2-ccity-AlexToebes\CSharpCity.uitwerking\bin\Debug\CSharpCity.uitwerking.pdb
+C:\Users\amtoebes\Documents\prog5-wk2-ccity-AlexToebes\CSharpCity.uitwerking\obj\Debug\CSharpCity.uitwerking.csprojResolveAssemblyReference.cache
+C:\Users\amtoebes\Documents\prog5-wk2-ccity-AlexToebes\CSharpCity.uitwerking\obj\Debug\MainWindow.baml
+C:\Users\amtoebes\Documents\prog5-wk2-ccity-AlexToebes\CSharpCity.uitwerking\obj\Debug\MainWindow.g.cs
+C:\Users\amtoebes\Documents\prog5-wk2-ccity-AlexToebes\CSharpCity.uitwerking\obj\Debug\App.g.cs
+C:\Users\amtoebes\Documents\prog5-wk2-ccity-AlexToebes\CSharpCity.uitwerking\obj\Debug\CSharpCity.uitwerking_MarkupCompile.cache
+C:\Users\amtoebes\Documents\prog5-wk2-ccity-AlexToebes\CSharpCity.uitwerking\obj\Debug\CSharpCity.uitwerking.g.resources
+C:\Users\amtoebes\Documents\prog5-wk2-ccity-AlexToebes\CSharpCity.uitwerking\obj\Debug\CSharpCity.uitwerking.Properties.Resources.resources
+C:\Users\amtoebes\Documents\prog5-wk2-ccity-AlexToebes\CSharpCity.uitwerking\obj\Debug\CSharpCity.uitwerking.csproj.GenerateResource.Cache
+C:\Users\amtoebes\Documents\prog5-wk2-ccity-AlexToebes\CSharpCity.uitwerking\obj\Debug\CSharpCity.uitwerking.exe
+C:\Users\amtoebes\Documents\prog5-wk2-ccity-AlexToebes\CSharpCity.uitwerking\obj\Debug\CSharpCity.uitwerking.pdb
